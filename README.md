@@ -1,1 +1,1 @@
-# news_sentiment_algo-trading
+# semiconductor companies stock price prediction
